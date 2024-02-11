@@ -29,4 +29,5 @@ const App = () => {
     }),
   ]);
 };
+
 createRoot(document.getElementById("root")).render(React.createElement(App));
