@@ -12,6 +12,7 @@ const SearchParams = () => {
 
     useEffect(() => {
         requestPets();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
 
     async function requestPets() {
