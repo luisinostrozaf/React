@@ -20,7 +20,7 @@ const SearchParams = () => {
     );
     const json = await res.json();
 
-    setPets(json.pets); //o
+    setPets(json.pets);
   }
 
   return (
