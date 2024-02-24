@@ -81,7 +81,6 @@ const SearchParams = () => {
             ))}
           </select>
         </label>
-
         <button>Submit</button>
       </form>
       <Results pets={pets} />
