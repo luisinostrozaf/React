@@ -1,5 +1,6 @@
-import { useState } from 'react'
+import Receta from './index.jsx'
 import './App.css'
+
 
 function App() {
   return (
