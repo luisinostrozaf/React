@@ -1,3 +1,5 @@
+import { useState } from 'react';
+
 function SearchBar() {
   const [searchQuery, setSearchQuery] = useState('');
   //const history = useHistory();
