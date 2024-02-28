@@ -1,6 +1,6 @@
 function Nav () {
     return (
-        <nav>
+        <nav className="nav-background">
         <ul>
             <li>Home</li>
             <li>Search</li>
@@ -9,5 +9,4 @@ function Nav () {
         </nav>
     )
 }
-
 export default Nav;

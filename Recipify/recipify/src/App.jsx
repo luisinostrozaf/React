@@ -1,5 +1,5 @@
 import './App.css';
-import Body from './body.jsx';
+import Body from './Body.jsx';
 import Footer from './Footer.jsx';
 import Nav from './Nav.jsx';
 
