@@ -1,4 +1,4 @@
-function Nav {
+function Nav () {
     return (
         <nav>
         <ul>
