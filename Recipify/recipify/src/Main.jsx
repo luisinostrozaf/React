@@ -1,4 +1,7 @@
-import { render } from 'react-dom';
+import { createRoot } from 'react-dom';
 import App from './App';
 
-render(<App />, document.getElementById('root'));
+const root = document.getElementById('root');
+if (root !== null) {
+  createRoot(root).render(<App />);
+}
