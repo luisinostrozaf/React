@@ -4,7 +4,7 @@ import {QueryClient, QueryClientProvider} from "@tanstack/react-query";
 import SearchParams from "./SearchParams";
 import Details from "./Details";
 
-const queryClient = new QueryClient(
+const queryClient = new QueryClient( //reactquery
   {
     defaultOptions: {
       queries: {
