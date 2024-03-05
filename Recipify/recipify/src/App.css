@@ -6,3 +6,7 @@
     background: rgb(7,199,41);
     background: linear-gradient(90deg, rgba(7,199,41,1) 33%, rgba(195,207,31,1) 79%); 
 }
+
+* {
+    box-sizing: border-box;
+}
