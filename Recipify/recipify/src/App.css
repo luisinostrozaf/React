@@ -2,15 +2,6 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-h1 {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: #fff;
-}
-h1:hover {
-    background-color: #3b82f6;
-}
-
 .nav-background {
     background: rgb(7,199,41);
     background: linear-gradient(90deg, rgba(7,199,41,1) 33%, rgba(195,207,31,1) 79%); 
