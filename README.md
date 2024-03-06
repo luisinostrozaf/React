@@ -1,1 +1,1 @@
-Some Reacts projects that im working in
+Some Reacts projects that i've been working in.
